@@ -1,8 +1,8 @@
 using CrazyGames;
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 using System;
 
-namespace MirraGames.SDK.CrazyGames
+namespace PrimeGames.SDK.CrazyGames
 {
     [Provider(typeof(IData))]
     public class CrazyGamesData : CommonData

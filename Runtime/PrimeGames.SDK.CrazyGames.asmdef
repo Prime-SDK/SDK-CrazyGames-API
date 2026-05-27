@@ -1,8 +1,8 @@
 {
-    "name": "MirraGames.SDK.CrazyGames",
-    "rootNamespace": "MirraGames.SDK.CrazyGames",
+    "name": "PrimeGames.SDK.CrazyGames",
+    "rootNamespace": "PrimeGames.SDK.CrazyGames",
     "references": [
-        "MirraGames.SDK.Common",
+        "PrimeGames.SDK.Common",
         "CrazySDK"
     ],
     "includePlatforms": [

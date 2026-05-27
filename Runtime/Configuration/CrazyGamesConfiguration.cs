@@ -1,6 +1,6 @@
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 
-namespace MirraGames.SDK.CrazyGames
+namespace PrimeGames.SDK.CrazyGames
 {
     [Configuration]
     public class CrazyGamesConfiguration : Configuration

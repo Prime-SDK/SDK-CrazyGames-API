@@ -1,6 +1,6 @@
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 
-namespace MirraGames.SDK.CrazyGames
+namespace PrimeGames.SDK.CrazyGames
 {
     [Provider(typeof(IPlatformInfo))]
     public class CrazyGamesPlatformInfo : CommonPlatformInfo

@@ -1,8 +1,8 @@
 using CrazyGames;
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 using System;
 
-namespace MirraGames.SDK.CrazyGames
+namespace PrimeGames.SDK.CrazyGames
 {
     [Provider(typeof(IAds))]
     public class CrazyGamesAds : CommonAds

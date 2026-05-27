@@ -2,10 +2,10 @@
 
 2. Create new assembly definition in the root of the imported CrazySDK folder, called exactly 'CrazySDK'.
 
-3. Install SDK5-CrazyGames-API package:
+3. Install CrazyGames API package:
 
 ```git
-https://github.com/MirraSDK/SDK5-CrazyGames-API.git
+https://github.com/Prime-SDK/SDK-CrazyGames-API.git
 ```
 
 4. Make sure you've selected WebGL in Build Settings.
@@ -14,4 +14,4 @@ https://github.com/MirraSDK/SDK5-CrazyGames-API.git
 
 6. For banners, use prefabs they provided in CrazySDK package.
 
-7. For payments, use XSolla API package for MirraSDK5 (available in Toolkit).
+7. For payments, use XSolla API package for PrimeSDK (available in Toolkit).
